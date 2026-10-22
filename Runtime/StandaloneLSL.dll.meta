@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 11db7918ab004be286814ef5ba9a3359
+PluginImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defineConstraints: []
+  isExplicitlyReferenced: 0
+  platformData:
+  - first:
+      Any:
+    second:
+      enabled: 1
+      settings: {}

@@ -1,0 +1,23 @@
+{
+  "name": "com.unitylsl.bridge",
+  "version": "1.0.0",
+  "displayName": "StandaloneLSL",
+  "description": "C# controlled Unity LSL sending, receiving and JSONL recording for Android ARM64 and Windows x64.",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0"
+  },
+  "author": {
+    "name": "Shad Ahmed"
+  },
+  "keywords": [
+    "LSL",
+    "LabStreamingLayer",
+    "Meta Quest",
+    "Android",
+    "VR",
+    "XR",
+    "research"
+  ]
+}

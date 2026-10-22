@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: bc3dc86a99464b9aafcf7f5e63cd8248
+PluginImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  isExplicitlyReferenced: 0
+  platformData:
+  - first:
+      Any:
+    second:
+      enabled: 0
+      settings: {}
+  - first:
+      Editor: Editor
+    second:
+      enabled: 1
+      settings:
+        CPU: x86_64
+        OS: Windows
+  - first:
+      Standalone: Win64
+    second:
+      enabled: 1
+      settings:
+        CPU: x86_64
